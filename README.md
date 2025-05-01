@@ -16,14 +16,5 @@ This is a simple **Flutter app** that demonstrates basic state management using 
 
 ## 📸 Screenshots
 
-![App Screenshot](assets/counter app.jpg)
+![Counter App Screenshot](assets/counter_app.jpg)
 
-## 🚀 Getting Started
-
-Clone the repo and run it:
-
-```bash
-git clone https://github.com/your-username/flutter-counter-app.git
-cd flutter-counter-app
-flutter pub get
-flutter run
