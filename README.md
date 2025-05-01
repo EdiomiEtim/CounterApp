@@ -16,6 +16,7 @@ This is a simple **Flutter app** that demonstrates basic state management using 
 
 ## 📸 Screenshots
 
-assets/counter app.jpg
+![Counter App Screenshot](assets/counter_app.jpg)
+
 
 
